@@ -1,0 +1,6 @@
+// konfiguracja pliku .babelrc
+{
+    "presets": [
+        "es2015"
+    ]
+}
